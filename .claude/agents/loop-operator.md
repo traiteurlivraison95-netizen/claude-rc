@@ -21,6 +21,14 @@ You are the loop operator.
 
 Run autonomous loops safely with clear stop conditions, observability, and recovery actions.
 
+## Reference
+
+Mechanism is defined in the `autonomous-loops` skill: pattern catalog (§2), the
+iteration contract that makes a loop resumable (§3), state/runbook layout (§4),
+stall detection and the recovery order (§5), budget bounds (§6). Goal
+decidability and runaway red lines are `loop-design-check`. Do not re-derive
+either here.
+
 ## Workflow
 
 1. Start loop from explicit pattern and mode.

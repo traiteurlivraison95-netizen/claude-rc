@@ -22,6 +22,9 @@ tool calls that have no matching `tool_result`.
 
 `/loop-status [--watch]`
 
+Stall signals, escalation triggers, and the recovery order are defined in the
+`autonomous-loops` skill (§5). Stop a spending loop before diagnosing it.
+
 ## What to Report
 
 - active loop pattern

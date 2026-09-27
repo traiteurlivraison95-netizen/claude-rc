@@ -11,6 +11,8 @@ Start a managed autonomous loop pattern with safety defaults.
 `/loop-start [pattern] [--mode safe|fast]`
 
 - `pattern`: `sequential`, `continuous-pr`, `rfc-dag`, `infinite`
+  (each pattern's shape, state, stop condition and failure mode is defined in the
+  `autonomous-loops` skill, §2 — read it before selecting one)
 - `--mode`:
   - `safe` (default): strict quality gates and checkpoints
   - `fast`: reduced gates for speed
@@ -28,6 +30,11 @@ Start a managed autonomous loop pattern with safety defaults.
 - Verify tests pass before first loop iteration.
 - Ensure `ECC_HOOK_PROFILE` is not disabled globally.
 - Ensure loop has explicit stop condition.
+
+Run the full pre-flight checklist in the `autonomous-loops` skill (§7) before the
+first iteration, and run `loop-design-check` before that to confirm the goal is
+machine-decidable. The runbook and state file this command writes under
+`.claude/plans/` follow the layout in `autonomous-loops` §4.
 
 ## Arguments
 
