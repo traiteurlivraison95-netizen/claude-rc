@@ -1,0 +1,48 @@
+# Fichier de désaveu — traiteur-livraison-95.fr — préparé le 2026-09-27
+# À importer dans Google Search Console > outil de désaveu, propriété traiteur-livraison-95.fr
+# Source : liens entrants relevés par OpenRush (spam score 50 à 80, ancres "PBN / Buy Backlinks")
+domain:kernelpanicpodcast.com
+domain:sahammurah.com
+domain:cvillico.com
+domain:dupurgeniefr.com
+domain:mediaboooster.com
+domain:techbumppy.com
+domain:quero.party
+domain:forbesstories.com
+domain:cmocheatsheets.com
+domain:fashionclothingnews.com
+domain:clifflisting.com
+domain:bestnz-poker-casinoslot.com
+domain:plurio.shop
+domain:uncledspizza.com
+domain:quotesblom.com
+domain:ufabettererm4.com
+domain:thedocmag.com
+domain:theforbestimes.com
+domain:archive-hu.com
+domain:betwinnermirror.com
+domain:betulcrime.com
+domain:bye.fyi
+domain:homesforsaleoldgreenwichct.com
+domain:way2check.cv
+domain:ggmap.us.com
+domain:buzzshrink.website
+domain:anchorurl.cloud
+domain:ready.pro
+domain:pagesearch.net
+domain:read.org.in
+domain:ycm.info
+domain:alljobs.info
+domain:musweb.org
+domain:blueinblue.com
+domain:booksreadr.org
+domain:screenshots.wiki
+domain:shortenurls.eu
+domain:globalecommerce.org
+domain:wheretobuybest.link
+domain:getwebsiteworth.com
+domain:2x9.co
+domain:tunca.org
+# À vérifier avant de décommenter : spam score bas, sites qui peuvent être légitimes
+# domain:sarys.co.uk
+# domain:ultrafood.eu
